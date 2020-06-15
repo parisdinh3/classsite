@@ -1,0 +1,26 @@
+html{
+  font-family:monospace;
+  background-color:crimson;
+}
+
+
+
+img{
+  max-width:100%;
+  width:200px;
+}
+h1{
+ background-color:lightgreen;
+ color:black;
+}
+h2{
+  background-color:lightgreen;
+  color:black;
+}
+#p01 {
+  font-size: 70px;
+  color: blue;
+  background:yellow;
+
+}
+</body>

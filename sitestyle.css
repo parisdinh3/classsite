@@ -1,0 +1,10 @@
+html {
+  background-color: lavender;
+  font-family: monospace;
+}
+h1 {
+  font-size: 90px;
+text-align: center;
+}
+
+p {line-height: 2;}
