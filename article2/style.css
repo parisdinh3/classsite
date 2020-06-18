@@ -1,5 +1,5 @@
 html{
-  font-family:serif;
+  font-family:monospace;
   background-color:lavenderblush;
 }
 
@@ -10,21 +10,23 @@ img{
   width:200px;
 }
 h1{
- background-color:lightgreen;
+ background-color:powderblue;
  color:black;
 }
 h2{
-  background-color:lightgreen;
+  background-color:powderblue;
   color:black;
 }
 
 .special {
   background:lavender;
   border-style:solid;
+  padding:15px;
 
 }
 
 .blah {
   background:lavender;
   border-style:solid;
+  padding:15px;
 }
