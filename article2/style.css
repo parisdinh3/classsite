@@ -13,6 +13,10 @@ h1{
  background-color:powderblue;
  color:black;
 }
+.header {
+  border-style:solid;
+  padding:15px;
+}
 h2{
   background-color:powderblue;
   color:black;
