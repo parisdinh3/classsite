@@ -1,6 +1,6 @@
 html{
-  font-family:monospace;
-  background-color:crimson;
+  font-family:cursive;
+  background-color:lavenderblush;
 }
 
 
@@ -17,10 +17,9 @@ h2{
   background-color:lightgreen;
   color:black;
 }
-#p01 {
-  font-size: 70px;
-  color: blue;
-  background:yellow;
+
+.special {
+  background:lavender;
+  border-style:solid;
 
 }
-</body>
