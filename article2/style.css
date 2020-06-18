@@ -1,5 +1,5 @@
 html{
-  font-family:cursive;
+  font-family:serif;
   background-color:lavenderblush;
 }
 
@@ -22,4 +22,9 @@ h2{
   background:lavender;
   border-style:solid;
 
+}
+
+.blah {
+  background:lavender;
+  border-style:solid;
 }
