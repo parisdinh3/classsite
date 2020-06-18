@@ -15,13 +15,14 @@ p {line-height: 2;}
   height:200px;
   border-radius:50%;
   position:absolute;
-  top:500px;
-  left:600px;
+  margin:auto;
+  width:50%
+  padding:10px
   transition: border-radius 2s ease, backround 1s ease,transform 4s ease;
 }
 
 .object:hover {
   border-radius:0;
-  background:yellogreen;
+  background:yellowgreen;
   transform:scale(2);
 }
