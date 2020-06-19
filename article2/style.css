@@ -8,6 +8,7 @@ html{
 img{
   max-width:100%;
   width:200px;
+  padding:20px;
 }
 h1{
  background-color:powderblue;
