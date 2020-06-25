@@ -1,0 +1,28 @@
+.container {
+  background:black;
+  display:flex;
+  flex-direction:row;
+  height:7vh;
+}
+
+html {
+  text-align:center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  text-align:center;
+  font-size:70px;
+}
+h2 {
+  font-family:Times;
+  color:grey;
+}
+
+img {
+  padding:100px;
+  align-content:center;
+}
+p {
+  font-family:Times;
+}
