@@ -15,7 +15,6 @@ p {line-height: 2;}
   height:100px;
   border-radius:50%;
   justify-content:center;
-  align-items: center;
   transition: border-radius 2s ease, backround 1s ease,transform 4s ease;
   cursor:help;
 }
