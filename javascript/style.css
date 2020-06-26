@@ -1,8 +1,10 @@
 * {
   box-sizing: border-box;
+  background:lavenderblush;
+  font-family:monospace;
 }
 html {
-  font-size:100%;
+  font-size:100%
 }
 .button {
   background:lightgreen;
@@ -18,7 +20,13 @@ html {
   background-color:coral;
   height:100vh;
   transition: transform .3s ease;
+  z-index:99;
 }
 .style {
 transform:translateX(-200px);
+}
+.marquee {
+  overflow: hidden;
+  border:1px solid #ccc;
+  font-size:2rem;
 }
