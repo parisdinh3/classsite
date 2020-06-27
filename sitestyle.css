@@ -14,7 +14,7 @@ p {line-height: 2;}
   width:100px;
   height:100px;
   border-radius:50%;
-  justify-content:center;
+  margin:auto;
   transition: border-radius 2s ease, backround 1s ease,transform 4s ease;
   cursor:help;
 }
