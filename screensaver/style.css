@@ -10,9 +10,7 @@ body {
   overflow-x:hidden;
 }
 
-#grad {
-  background-image:linear-gradient(mediumpurple,indianred);
-}
+
 
 #background-wrap {
   bottom:0;
