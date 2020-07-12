@@ -27,3 +27,11 @@ img {
 p {
   font-family:Times;
 }
+
+.button
+{
+  display:flex;
+  flex-direction:row;
+  padding:12px;
+  font-size:20px;
+}
