@@ -1,12 +1,3 @@
-.container {
-  background:black;
-  color:white;
-  display:flex;
-  flex-direction:row;
-  height:7vh;
-  font-family:'Open Sans', sans-serif;
-}
-
 html {
   text-align:center;
   font-family: 'Open Sans', sans-serif;
@@ -27,6 +18,14 @@ img {
 }
 p {
   font-family:Times;
+}
+.container {
+  background:black;
+  color:white;
+  display:flex;
+  flex-direction:row;
+  height:7vh;
+  font-family:'Open Sans', sans-serif;
 }
 
 .button
